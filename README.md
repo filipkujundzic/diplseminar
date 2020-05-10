@@ -5,5 +5,4 @@ https://github.com/Akavall/AntColonyOptimization
 
 https://nathanrooy.github.io/posts/2016-08-17/simple-particle-swarm-optimization-with-python/
 
-https://github.com/AghilesAzzoug/Artificial-Immune-System/blob/master/main.py
-
+https://github.com/AghilesAzzoug/Artificial-Immune-System
